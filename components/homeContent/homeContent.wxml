@@ -1,0 +1,6 @@
+<view class="section">
+  <view class="title">
+  {{title}}
+  </view>
+  <image style="height:{{demostyle}}" src="{{img}}" mode=""/>
+</view>

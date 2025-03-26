@@ -1,0 +1,8 @@
+<swiper class="section icons" indicator-dots="true" autoplay="false">
+  <swiper-item >
+  <view class="icon" wx:for="{{itemdata}}" wx:for-item="list" wx:key="list.id">
+    <image src="{{list.img}}" mode=""/>
+    <text>{{list.name}}</text>
+  </view>
+  </swiper-item>
+</swiper>

@@ -1,0 +1,221 @@
+{
+  "swiperdata": [
+    {
+      "img": "https://imgcps.jd.com/img-cubic/creative_server_cia_jdcloud/v2/2000366/100057546745/FocusFullshop/CkRqZnMvdDEvMTkwMTU3LzE2LzM2MTQ0LzI3MDAyMC82NGQ1M2JiOUZmYTlhZTkyYy9jYWE1YjYwMDQ1MjA1MTdkLnBuZxIJNS10eV8wXzU2MAI47ot6QhMKD-S4ieWSjOeOu-eSg-awtBABQhYKEuW8gOWQr-eyvuiHtOeUn-a0uxACQhAKDOeri-WNs-aKoui0rRAGQgoKBuS8mOi0qBAHWPn_k9_0Ag/cr/s/q.jpg",
+      "url": "",
+      "id": "1",
+      "name": "玻璃水"
+    },
+    {
+      "img": "https://img13.360buyimg.com/pop/s1180x940_jfs/t1/157959/7/30687/93315/64d5e4bdFc8012188/a84f2ec75e77de7b.jpg.avif",
+      "url": "",
+      "id": "2",
+      "name": "潮车"
+    },
+    {
+      "img": "https://img10.360buyimg.com/pop/s1180x940_jfs/t1/136226/12/37785/88868/64dc5515F5c09da5a/1be63c2724078512.jpg.avif",
+      "url": "",
+      "id": "3",
+      "name": "普洱茶"
+    }
+  ],
+  "linkitem": [
+    {
+      "id": 1,
+      "img": "../../imgs/index/icon_1.jpg",
+      "name": "美食"
+    },
+    {
+      "id": 2,
+      "img": "../../imgs/index/icon_2.jpg",
+      "name": "超市"
+    },
+    {
+      "id": 3,
+      "img": "../../imgs/index/icon_3.jpg",
+      "name": "鲜果购"
+    },
+    {
+      "id": 4,
+      "img": "../../imgs/index/icon_4.jpg",
+      "name": "下午茶"
+    },
+    {
+      "id": 5,
+      "img": "../../imgs/index/icon_5.jpg",
+      "name": "正餐优选"
+    },
+    {
+      "id": 6,
+      "img": "../../imgs/index/icon_6.jpg",
+      "name": "外卖专送"
+    },
+    {
+      "id": 7,
+      "img": "../../imgs/index/icon_7.jpg",
+      "name": "饮品站"
+    },
+    {
+      "id": 8,
+      "img": "../../imgs/index/icon_8.jpg",
+      "name": "小吃馆"
+    }
+  ],
+  "shops": [
+    {
+      "id": 1,
+      "img": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/shop_1.jpg",
+      "distance": 1.8,
+      "sales": 1475,
+      "logo": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/logo_1.jpg",
+      "name": "杨国福麻辣烫(东四店)",
+      "desc": "满25减8；满35减10；满60减15（在线支付专享）"
+    },
+    {
+      "id": 2,
+      "img": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/shop_2.jpg",
+      "distance": 2.4,
+      "sales": 1284,
+      "logo": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/logo_2.jpg",
+      "name": "忠友麻辣烫(东四店)",
+      "desc": "满25减8；满35减10；满60减15（在线支付专享）"
+    },
+    {
+      "id": 3,
+      "img": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/shop_3.jpg",
+      "distance": 2.3,
+      "sales": 2039,
+      "logo": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/logo_3.jpg",
+      "name": "粥面故事(东大桥店)",
+      "desc": "满25减8；满35减10；满60减15（在线支付专享）"
+    },
+    {
+      "id": 4,
+      "img": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/shop_4.jpg",
+      "distance": 3.4,
+      "sales": 400,
+      "logo": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/logo_4.jpg",
+      "name": "兄鸡",
+      "desc": "满25减8；满35减10；满60减15（在线支付专享）"
+    },
+    {
+      "id": 5,
+      "img": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/shop_1.jpg",
+      "distance": 1.8,
+      "sales": 1475,
+      "logo": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/logo_1.jpg",
+      "name": "杨国福麻辣烫(东四店)",
+      "desc": "满25减8；满35减10；满60减15（在线支付专享）"
+    },
+    {
+      "id": 6,
+      "img": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/shop_2.jpg",
+      "distance": 2.4,
+      "sales": 1284,
+      "logo": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/logo_2.jpg",
+      "name": "忠友麻辣烫(东四店)",
+      "desc": "满25减8；满35减10；满60减15（在线支付专享）"
+    },
+    {
+      "id": 7,
+      "img": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/shop_3.jpg",
+      "distance": 2.3,
+      "sales": 2039,
+      "logo": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/logo_3.jpg",
+      "name": "粥面故事(东大桥店)",
+      "desc": "满25减8；满35减10；满60减15（在线支付专享）"
+    },
+    {
+      "id": 8,
+      "img": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/shop_4.jpg",
+      "distance": 3.4,
+      "sales": 400,
+      "logo": "http://wxapp.im20.com.cn/impublic/waimai/imgs/shops/logo_4.jpg",
+      "name": "兄鸡",
+      "desc": "满25减8；满35减10；满60减15（在线支付专享）"
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 9
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 10
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 11
+    },
+    {
+      "name": "111",
+      "id": 12
+    },
+    {
+      "name": "1231",
+      "id": 13
+    },
+    {
+      "name": "1",
+      "id": 14
+    },
+    {
+      "name": "2",
+      "id": 15
+    },
+    {
+      "name": "123123123",
+      "id": 16
+    },
+    {
+      "name": "1231231",
+      "id": 17
+    },
+    {
+      "name": "1231",
+      "id": 18
+    },
+    {
+      "name": "213",
+      "id": 19
+    },
+    {
+      "name": "1",
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 22
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 23
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 24
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 25
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 26
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 27
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 28
+    },
+    {
+      "name": "杨国福麻辣烫(东四店)",
+      "id": 29
+    }
+  ]
+}

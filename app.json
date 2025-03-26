@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/search",
+    "pages/mine/mine",
+    "pages/shop/shop"
+  ],
+  "tabBar": {
+    "color":"#878787",
+    "selectedColor":"#000000",
+    "backgroundColor":"#fcfcfc",
+    "list":[
+      {
+      "text":"首页",
+      "pagePath":"pages/index/index",
+      "iconPath":"./imgs/tabBar/home_2.png",
+      "selectedIconPath":"./imgs/tabBar/home_1.png"
+      },
+      {
+      "text":"我的",
+      "pagePath":"pages/mine/mine",
+      "iconPath":"./imgs/tabBar/mine_2.png",
+      "selectedIconPath":"./imgs/tabBar/mine_1.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroudTextStyle": "light",
+    "navigationBarTitleText": "外卖首页",
+    "navigationBarBackgroundColor": "#feb70f",
+    "navigationBarTextStyle": "white",
+    "onReachBottomDistance":200
+  },
+  "style": "v2",
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

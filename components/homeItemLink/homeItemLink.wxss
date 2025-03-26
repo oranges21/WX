@@ -1,0 +1,25 @@
+.icons swiper-item{
+  width:100%;
+}
+.icons{
+  height:370rpx;
+  padding:20rpx 10rpx
+}
+.icons .icon{
+  float: left;
+  display:-webkit-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width:25%;
+  text-align: center;
+  margin: 10rpx 0;
+}
+.icons .icon image{
+  width:100rpx;
+  height:100rpx;
+  margin:0 auto
+}
+.icons .icon text{
+  color:black;
+  font-size:24rpx
+}

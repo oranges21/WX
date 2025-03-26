@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "HomeItemLink":"../../components/homeItemLink/homeItemLink",
+    "HomeContent":"../../components/homeContent/homeContent"
+  }
+}
