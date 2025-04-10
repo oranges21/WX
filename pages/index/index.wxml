@@ -1,18 +1,19 @@
 <view class="container">
 <view>
-  <view class="header">
+  <view class="header {{scrollDown?'scrolled':''}}">
     <view class="location">
       <image class="icon" src="../../imgs/index/icon_location.png" mode=""/>
       定位中
     </view>
-    <view class="search">
+    <view class="search" bindtap="searchlink">
       <image class="icon" src="../../imgs/index/icon_search.png" mode=""/>
       <i class="fa fa-home"/>
       烤鸭
     </view>
   </view>
 </view>
-<scroll-view scroll-y="true">
+<scroll-view scroll-y="true" style="height: {{scrollHeight}}px;" bindscrolltolower="onReachBottom"
+bindscroll="onScroll">
   <swiper class="banner" indicator-dots="true" autoplay="true" interval="3000">
   <block wx:for="{{arr}}" wx:key="{{item.id}}">
     <swiper-item>
@@ -43,7 +44,7 @@
     </view>
   </view>
  </view>
- <view class="shoplist" wx:for="{{shoparr}}">
+ <view class="shoplist" wx:for="{{shoparr}}"  bindtap="fun">
  <image src="{{item.img}}" mode=""/>
  </view>
 </scroll-view>

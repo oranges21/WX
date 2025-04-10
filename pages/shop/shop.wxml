@@ -1,2 +1,18 @@
-<!--pages/shop/shop.wxml-->
-<text>pages/shop/shop.wxml</text>
+<view class="container">
+  <view class="header">
+    <image src="" class="logo" mode=""/>
+    <view class="name">
+      杨国福麻辣烫
+    </view>
+    <view class="welcome">
+      公告：欢迎光临
+    </view>
+    <view class="follow">
+      收藏
+    </view>
+    <view class="line"></view>
+    <view class="desc">
+      满25减8；满35减10；
+    </view>
+  </view>
+</view>

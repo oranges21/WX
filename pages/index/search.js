@@ -1,13 +1,26 @@
-// pages/index/search.js
+import {apiLink} from "../../utils/request.js"
+
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-
+    inputval:""
   },
-
+  inputsearch(e){
+    console.log(e.detail.value);
+    this.setData({
+      inputval:e.detail.value
+    })
+  },
+  searchData(){
+    apiLink({url:"http://localhost:9988/shops",method:"POST",data:{
+      name:this.data.inputval
+    }}).then((ok)=>{
+      console.log(ok.data);
+    })
+  },
   /**
    * 生命周期函数--监听页面加载
    */
